@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f804ae6f-5f18-4802-984b-79ecd01c8c26" name="Default Changelist" comment="init">
+      <change beforePath="$PROJECT_DIR$/10-es2015.bbb37bc4f52a5a81df26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-es5.bbb37bc4f52a5a81df26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-es2015.50bc8f9b19e1c3e041b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-es5.50bc8f9b19e1c3e041b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-es2015.60e9d8301dd04f7a43be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12-es5.60e9d8301dd04f7a43be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-es2015.aa7b4a783ec9c2f3d345.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13-es5.aa7b4a783ec9c2f3d345.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-es2015.c7b31d36cd851140c94c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14-es5.c7b31d36cd851140c94c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-es2015.e27d8f209eeb3dd832db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-es5.e27d8f209eeb3dd832db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-es2015.0aee108d463cc548de91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-es5.0aee108d463cc548de91.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-es2015.77e749f9dd5530406b08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-es5.77e749f9dd5530406b08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18-es2015.58524561e1315276381e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18-es5.58524561e1315276381e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-es2015.90a9a7c911c81e4a340a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-es5.90a9a7c911c81e4a340a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-es2015.9226ef0267424a3177f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-es5.9226ef0267424a3177f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-es2015.bd9c760e73010be37600.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20-es5.bd9c760e73010be37600.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-es2015.e0d20d51833d5997347a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21-es5.e0d20d51833d5997347a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-es2015.2ed3b3aaaf00aaa11aaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-es5.2ed3b3aaaf00aaa11aaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-es2015.c83d8226fecf515686b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23-es5.c83d8226fecf515686b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-es2015.3f813ec129195cd8d789.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-es5.3f813ec129195cd8d789.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3rdpartylicenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-es2015.e3b6b8d33ea41cf2cf8f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8-es5.e3b6b8d33ea41cf2cf8f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-es2015.707de40f71783f98682f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9-es5.707de40f71783f98682f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-es2015.a0304aae076ae41b05a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-es5.a0304aae076ae41b05a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-es2015.5e42b8c6091717d02f65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-es5.5e42b8c6091717d02f65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngsw-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngsw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfills-es2015.b3b2d916c9d1bb6a29a0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfills-es5.7083b7dba085e58c39ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-es2015.8637ce1f383d8077d805.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-es5.8637ce1f383d8077d805.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/safety-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.5df68e9eafc73bc416a5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker-basic.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="commit">
+      <created>1621179078614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621179078614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="218" y="97" width="1536" height="901" key="DiffContextDialog" timestamp="1621179081978">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="218" y="97" width="1536" height="901" key="DiffContextDialog/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1621179081978" />
+    <state x="591" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1621179082995">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="276" width="800" height="535" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1621179082995" />
+  </component>
+</project>
